@@ -23,8 +23,8 @@
 //  * @description  : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ, A Multi-functional WhatsApp bot created by Rajitha
 //*
 //*
-//Base by Janith Rashmika
-//GitHub: @Mrrashmika
+//Base by Rajitha
+//GitHub: @MrAlvin
 //WhatsApp: +94718849599
 //
 //   * Created By GitHub: MrRajitha
